@@ -1,2 +1,3 @@
 # my_first_project
-this is my repository in github
+this is my first repository in Git.
+Author-Rakhi kumari
